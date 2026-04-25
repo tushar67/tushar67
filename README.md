@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Tushar Kumar Sinha
+# Hi there 👋 I'm Tushar Randhir Sinha
 
 🎓 Data Science MSc Student at University of Milan (UNIMI), Italy  
 📊 Passionate about Data Science, Machine Learning, AI, Analytics & Research  
@@ -72,7 +72,7 @@ Regression & classification models for real-world datasets.
 
 - GitHub: https://github.com/tushar67
 - LinkedIn: Add your LinkedIn link here
-- Email: your-email@example.com
+- Email: tusharrandhir.sinha@studenti.unimi.it
 
 ---
 
