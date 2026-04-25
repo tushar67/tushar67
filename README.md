@@ -71,7 +71,7 @@ Regression & classification models for real-world datasets.
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/tushar67
-- LinkedIn: Add your LinkedIn link here
+- LinkedIn: [Add your LinkedIn link here](https://www.linkedin.com/in/tushar-sinha-a103601b3/)
 - Email: tusharrandhir.sinha@studenti.unimi.it
 
 ---
