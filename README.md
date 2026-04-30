@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar Randhir Sinha</h1>
-<h3 align="center">Data Science MSc @ UNIMI | AI Enthusiast | Turning Data into Decisions</h3>
+<h3 align="center">Data Science MSc @UNIMI | AI Enthusiast | Turning Data into Decisions</h3>
 
 <p align="center">
   <a href="https://github.com/tushar67">
